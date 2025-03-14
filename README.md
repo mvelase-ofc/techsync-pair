@@ -8,7 +8,7 @@ session.guruapi.tech is using this repo , so don't disturb me by asking if i use
 
 𝐌𝐕𝐄𝐋𝐀𝐒𝐄 𝐌𝐃 𝐒𝐄𝐒𝐒𝐈𝐎𝐍 𝐈𝐃 𝐆𝐄𝐍𝐄𝐑𝐀𝐓𝐎𝐑.
 
-![image](https://files.catbox.moe/7a63r4.png)
+![image](https://files.catbox.moe/8ub6ps.png)
 
 
 

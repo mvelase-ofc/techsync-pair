@@ -1,4 +1,5 @@
-# Express-pairing-code
+> 𝐓𝐄𝐂𝐇𝐒𝐘𝐍𝐂-𝐌𝐃 𝐏𝐀𝐈𝐑 𝐂𝐎𝐃𝐄
+
 Baileys Session Gen Using Express
 
 
@@ -8,14 +9,8 @@ session.guruapi.tech is using this repo , so don't disturb me by asking if i use
 
 𝐌𝐕𝐄𝐋𝐀𝐒𝐄 𝐌𝐃 𝐒𝐄𝐒𝐒𝐈𝐎𝐍 𝐈𝐃 𝐆𝐄𝐍𝐄𝐑𝐀𝐓𝐎𝐑.
 
-![image](https://files.catbox.moe/8ub6ps.png)
+![image](https://files.catbox.moe/sdv3qh.png)
 
 
 
-# 𝑪𝒓𝒆𝒂𝒕𝒐𝒓/ 𝑲𝒉𝒖𝒍𝒆𝒌𝒂𝒏𝒊𝑫𝒖𝒃𝒆.⛱️
-
-# 𝑩𝒐𝒕 𝑵𝒂𝒎𝒆/ 𝑴𝒗𝒆𝒍𝒂𝒔𝒆 𝑴𝑫.⛱️
-
-
-# ☕𝑪𝑨𝑵 𝑰 𝑯𝑨𝑽𝑬 𝑨 𝑻𝑬𝑨 !
 
